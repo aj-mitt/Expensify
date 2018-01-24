@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should test render spending summary with 1 spending 1`] = `
+<div>
+  <h1>
+    Viewing 
+    1
+     
+    spending
+     total  of 
+    $2.35
+  </h1>
+</div>
+`;
+
+exports[`Should test render spending summary with multiply spending 1`] = `
+<div>
+  <h1>
+    Viewing 
+    23
+     
+    spending
+     total  of 
+    $235,977,961.67
+  </h1>
+</div>
+`;

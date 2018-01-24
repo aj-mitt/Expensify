@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render Hader 1`] = `
+<header>
+  <h1>
+    Spend Track
+  </h1>
+  <NavLink
+    activeClassName="is-active"
+    ariaCurrent="true"
+    to="/dashborad"
+  >
+    Home
+  </NavLink>
+  <NavLink
+    activeClassName="is-active"
+    ariaCurrent="true"
+    to="/create"
+  >
+    Create Spend
+  </NavLink>
+  <button
+    onClick={[Function]}
+  >
+    Logout
+  </button>
+</header>
+`;
